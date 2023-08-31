@@ -30,7 +30,7 @@ Welcome
 <!-- 클라우드 -->
 ![Static Badge](https://img.shields.io/badge/Google%20Cloud-green?style=flat&logo=Google%20Cloud&label=Cloud)
 <!-- Community -->
-![Static Badge](https://img.shields.io/badge/Notion-blue?style=flat&logo=notion&label=Blog&link=https%3A%2F%2Fmlnl.me%2Fpy)
+[![Static Badge](https://img.shields.io/badge/Notion-blue?style=flat&logo=notion&label=Blog&link=https%3A%2F%2Fmlnl.me%2Fpy)](https://mlnl.me/py)
 ![Static Badge](https://img.shields.io/badge/Discord-violet?style=flat&logo=discord&label=Community)
 ![Static Badge](https://img.shields.io/badge/slack-white?style=flat&logo=slack&label=Community)
 <!-- Tools -->
