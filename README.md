@@ -6,8 +6,7 @@
 Welcome
 
 ## Stat
-[![WhiteKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteKIM)](https://github.com/anuraghazra/github-readme-stats)
-
+![WhiteKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteKIM&show_icons=true&theme=dark)
 ## 주 언어
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteKIM&layout=compact&theme=tokyonight)
 
