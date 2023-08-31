@@ -18,7 +18,9 @@ Welcome
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Web-HTML5-plat?logo=html5&color=orange)
-![Static Badge](https://img.shields.io/badge/Code-jQuery-jQuery?logo=jquery)
+![Static Badge](https://img.shields.io/badge/Code-JQuery-jQuery?logo=jquery)
+![Static Badge](https://img.shields.io/badge/Java-orange?logo=oracle&label=Code)
+
 <!-- 프레임워크 -->
 ![Static Badge](https://img.shields.io/badge/Code-Spring-plat?logo=Spring&color=green)
 ![Static Badge](https://img.shields.io/badge/Code-Spring_Boot-plat?logo=Spring%20Boot&color=green)
