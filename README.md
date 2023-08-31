@@ -23,7 +23,7 @@ Welcome
 <!-- 프레임워크 -->
 ![Static Badge](https://img.shields.io/badge/Code-Spring-plat?logo=Spring&color=green)
 ![Static Badge](https://img.shields.io/badge/Code-Spring_Boot-plat?logo=Spring%20Boot&color=green)
-![Static Badge](https://img.shields.io/badge/Code-thymeleaf-thymeleaf?logo=thymeleaf)
+![Static Badge](https://img.shields.io/badge/Code-Thymeleaf-Thymeleaf?logo=thymeleaf)
 <!-- DB -->
 ![Static Badge](https://img.shields.io/badge/DB-MariaDB-plat?logo=MariaDB&color=blue)
 ![Static Badge](https://img.shields.io/badge/DB-MySQL-plat?logo=mysql&color=blue)
